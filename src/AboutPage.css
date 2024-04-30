@@ -1,0 +1,66 @@
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: #ff0000;
+  margin-bottom: 20px;
+}
+
+.content {
+  line-height: 1.6;
+  font-size: 18px;
+  color: #faeeee;
+}
+
+.content p {
+  margin-bottom: 20px;
+}
+
+.image-section {
+  text-align: center;
+  margin-top: 40px;
+  size-adjust: 40px;
+}
+
+.image-section img {
+  max-width: 30%;
+  height: 300px;
+  border-radius: 8px;
+}
+
+.about-container {
+  padding: 20px; /* Add padding around the container */
+}
+
+.container {
+  max-width: 800px; /* Set maximum width for the container */
+  margin: 20 auto; /* Center the container horizontally */
+}
+
+.header {
+  text-align: center; /* Center the heading */
+}
+
+.content {
+  margin-top: 20px; /* Add margin above the content */
+}
+
+.image-section {
+  text-align: center; /* Center the image */
+  margin-top: 20px; /* Add margin above the image */
+}
+
+.image-section img {
+  max-width: 100%; /* Ensure the image does not exceed the container width */
+}
