@@ -3,7 +3,6 @@ import AboutPage from "./about";
 import HomePage from "./home";
 import MenuPage from "./MenuPage";
 import Navbar from "./Navbar";
-// import Footer from "./Footer";
 
 function App() {
   return (
@@ -14,6 +13,7 @@ function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="/menu" element={<MenuPage />} />
       </Routes>
+
       {/* <Footer /> */}
     </Router>
   );

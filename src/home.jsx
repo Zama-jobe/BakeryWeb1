@@ -8,7 +8,7 @@ const HomePage = () => {
     <div className="home-container">
       <div className="hero">
         <div className="hero-content">
-          <h1>GoodnessBakes</h1>
+          <h1>OwlBakery</h1>
           <p>Where Every Crumb Tells a Delicious Story!</p>
         </div>
       </div>
